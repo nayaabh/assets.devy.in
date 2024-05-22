@@ -1,0 +1,11 @@
+{
+  "name": "devy.in-assets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "wq": "sh cicd/save-and-push.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
